@@ -13,8 +13,7 @@ Trista Reeves
 This lesson uses an API and Ajax methods to create an application that displays information about movies.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://trista97.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. How to build an application using an API.
